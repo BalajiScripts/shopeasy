@@ -1,0 +1,2 @@
+# shopeasy
+Devops project
